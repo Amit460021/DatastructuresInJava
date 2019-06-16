@@ -1,5 +1,5 @@
-# Datastructures and Algorithms
-This repository contains the notes I have created for the topic of data structures and algorithms. The intention of this repository is to learn various DSA topics. 
+# DatastructuresInJava
+This repository contains the java implementation of various datastructures.  The intention of code in this repository is to learn the basics of how internally a datastructure works. 
 
 ## Build and Installation
 JDK 1.6
@@ -15,6 +15,3 @@ The classes are written as standalone programs and can be executed independently
 6. HashMap
 7. LinkedHashMap
 8. Binary Search Tree
-
-## Topics
-* [Analysis of Algorithms] (/AnalysisOfAlgorithms/README.md) 
