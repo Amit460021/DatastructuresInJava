@@ -17,4 +17,4 @@ The classes are written as standalone programs and can be executed independently
 8. Binary Search Tree
 
 ## Topics
-* [Analysis of Algorithms] (/AnalysisOfAlgorithms/README.md) 
+* [Analysis of Algorithms](https://github.com/Amit460021/DatastructuresInJava/tree/master/AnalysisOfAlgorithms/README.md) 
